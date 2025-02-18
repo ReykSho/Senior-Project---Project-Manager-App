@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Project Manager App (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Project Manager App (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
